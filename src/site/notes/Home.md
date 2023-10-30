@@ -3,7 +3,7 @@
 ---
 
 # Home Page
-No context yet 😄
+No context yet
 # List of notes
 - [[Home\|Home]]
 - [[Consumed Content/Books/Thinking Fast and Slow\|Thinking Fast and Slow]]
