@@ -3,23 +3,17 @@
 ---
 
 # What I'm doing
-```start-multi-column
-ID: ExampleRegion4
-number of columns: 2
-border: off
-```
-> [!abstract] Reading
+> [!abstract]+ Reading
 > > [!Tip]+ Fiction
 > > [[The Blade Itself\|The Blade Itself]]
 > 
 > > [!Info]+ Non-Fiction
 > > [[Consumed Content/Books/Thinking Fast and Slow\|Thinking Fast and Slow]]
 
---- end-column ---
-> [!Danger] Working on
+> [!Danger]+ Working on
 > [This website](https://emrey.vercel.app/)
 
---- end-multi-column
+---
 # Consumed Content
 ## Books
 - [[Consumed Content/Books/Thinking Fast and Slow\|Thinking Fast and Slow]]
