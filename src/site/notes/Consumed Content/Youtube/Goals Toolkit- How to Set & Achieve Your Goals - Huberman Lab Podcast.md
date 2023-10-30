@@ -1,0 +1,52 @@
+---
+{"dg-publish":true,"permalink":"/consumed-content/youtube/goals-toolkit-how-to-set-and-achieve-your-goals-huberman-lab-podcast/"}
+---
+
+## Metadata
+- [Link](https://www.hubermanlab.com/episode/goals-toolkit-how-to-set-achieve-your-goals)
+- Creator: [[Andrew Huberman\|Andrew Huberman]]
+---
+# Notes
+- Tool 1 - Spend a long time defining a single priority/goal
+	- One goal at a time
+- Tool 2 - Set a hard to achieve goal
+	- You need to feel challenged
+- Tool 3 - Define specific and measurable verb actions
+	- Write it on a paper
+	- Very detailed durations etc.
+- Myth 1 - Post it or visual reminder is a myth
+	- Need to update them every day
+- Myth 2 - "Tell the world" is a myth
+	- Getting the positive feedback by simply saying what you want to or going to achieve
+	- Having a strict accountability partner who checks in on you is a good thing to have
+- Intrinsic motivation is the best motivation
+- Tool 4 - The goal needs to be measurable
+	- How long do you think it will take?
+	- How much time you need to spend each day/week
+	- Timeframe
+		- Define a 12-week goal as a macro time
+		- Hours per week
+		- Hours per day
+		- Which days of the week
+- Tool 5 - Quantifying the goal
+	- Actions are quantifiable
+	- The amount of time is quantifiable
+- Tool 6 - Visualizing the end before work
+	- Do I want to do the things required (previously discussed/thought)?
+	- ==When you feel motivated and just before engaging with the day's work== 1-5 minutes of visualizing the version of you who achieved the goal boosts it
+	- ==If you have a hard time engaging with the work==, positive visualizing undermines the work. Instead, you should visualize the failure, scare yourself
+- Tool 7 - Focusing the visual attention within a work/action block increases focus
+	- If you feel distracted or if you lose motivation, find a visual target near your work, and focus your vision on the target for 30-90 seconds. That will increase focus and motivation and sustainability of them
+	- If your eyes feel tired, go into the panoramic view (blink, see the edges of the vision)
+- Tool 8 - Block the phone
+- Tool 9 - Random intermittent reinforcement
+	- Randomly reward and non-reward yourself
+	- When you complete a work, flip a coin and reward 50% of the time, other 50% you move on to another work
+	- This is true for both internal and external rewards. Even reminding yourself that you are in the right direction, and performing well etc.
+- Tool 10 - "Middle problem" - The lack of motivation when you are past the beginning phase and before the end
+	- Acknowledge it
+	- Chunk up the middle section, and try to make it easier
+	- This can be done within each work block and across the work blocks (within a week, a month)
+- Tool 11 - Circadian rhythms and attention
+	- 30 mins, 3 hours, and 11 hours after waking up, you have the highest focus/attention/motivation (available dopamine)
+	- Schedule accordingly even if roughly
