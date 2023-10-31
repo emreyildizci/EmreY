@@ -33,7 +33,7 @@
 > - Hear the narrative
 > - Shift the intelligence-based narrative to effort based narrative
 > - **Ex1**: I'm good at productivity -> I spent time learning about productivity and its practical applications
-> - **Ex2**: `~{I'm bad at stopping my cravings or controlling my appetite -> I haven't prioritized paying much attention to my meals or what I eat. I only focused on the end product rather than paying attention to and putting effort into what I eat}`
+> - **Ex2**: 
 
 > [!exp]- Growth vs fixed mindsets
 > - Fixed mindset people got affected by their mistakes emotionally
