@@ -20,9 +20,9 @@
 
 | 6-month | goal                                                                     | cost | 1-week                     | 2-week                                            | 1-month                                |
 | ------- | ------------------------------------------------------------------------ | ---- | -------------------------- | -------------------------------------------------- | -------------------------------------- |
-| Having  | `~{A community}`                                                              | 0    | `~{list topics to write about}` | `~{Send the first email}`                                   | `~{Create a website}`                                       |
-| Being   | `~{Bookworm <br>  - Read 1 book a week <br> - Have a dedicated social media}` | 0    |           |   |                      |
-| Doing   | `~{Give a lecture about productivity at a university}`                        | 0    |    | `~{Create a presentation}`                              |  |the 
+| Having  |                                                               | 0    |  |                                    |                                        |
+| Being   |  | 0    |           |   |                      |
+| Doing   |                         | 0    |    |                               |  |the 
 
 | 12-month | goal       | cost | 1-week                   | 2-week                 | 1-month |
 | -------- | ---------- | ---- | ------------------------ | ---------------------- | ------- |
