@@ -28,7 +28,7 @@
 > [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 > [!Danger]- Notes
->  - [[Personal/How I do things/How do I brew espresso?\|How do I brew espresso?]]
+>  - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
 > 
 { .block-language-dataview}
 
@@ -50,7 +50,7 @@
 { .block-language-dataview}
 
 > [!Tip]- Personal
->  - [[Personal/How I do things/How do I brew espresso?\|How do I brew espresso?]]
+>  - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
 > 
 { .block-language-dataview}
 
