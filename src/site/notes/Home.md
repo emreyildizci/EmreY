@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-# What I'm doing
+# What I'm doing now
+
 > [!abstract]- Reading
 > > [!Tip]- Fiction
 > > [[The Blade Itself\|The Blade Itself]]
 > 
 > > [!Info]- Non-Fiction
-> > [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
+> 
+> 
 
 > [!Danger]- Working on
 > [This website](https://emrey.vercel.app/)
@@ -19,7 +21,19 @@
 { .block-language-dataview}
 
 ---
-# Consumed Content
+# Next
+
+> [!Danger]- Books
+> [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics)
+> [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
+> [!Danger]- Notes
+>  - [[Personal/How I do things/How do I brew espresso?\|How do I brew espresso?]]
+> 
+{ .block-language-dataview}
+
+---
+# Notes on the website
 
 > [!Tip]- Books
 >  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
@@ -34,3 +48,9 @@
 > - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
 > 
 { .block-language-dataview}
+
+> [!Tip]- Personal
+>  - [[Personal/How I do things/How do I brew espresso?\|How do I brew espresso?]]
+> 
+{ .block-language-dataview}
+
