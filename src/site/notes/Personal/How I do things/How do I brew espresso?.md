@@ -2,13 +2,10 @@
 {"dg-publish":true,"permalink":"/personal/how-i-do-things/how-do-i-brew-espresso/"}
 ---
 
-::: to-be-published
-ali
-:::
+Soon to be published
 a
-Soon to be published1
-testx
-?
+A word "testx" is hidden here
+
 > [!Tip]- My setup
 > - [Breville Bambino](https://www.amazon.com/Breville-Bambino-Espresso-Machine-Stainless/dp/B0B1JPPG2L)
 > - [1Zpresso J-Max](https://www.amazon.com/gp/product/B0B45ZFPP7)
