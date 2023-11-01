@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/personal/how-i-do-things/how-do-i-brew-espresso/"}
 ---
 
-Soon to be published
+==Soon to be published==
 a
-A word "testx" is hidden here
+A word "▭" is hidden here
 
 > [!Tip]- My setup
 > - [Breville Bambino](https://www.amazon.com/Breville-Bambino-Espresso-Machine-Stainless/dp/B0B1JPPG2L)
