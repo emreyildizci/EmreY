@@ -14,9 +14,7 @@
 > [This website](https://emrey.vercel.app/)
 
 > [!Tip ] Notes I worked on today
->  - [[Home\|Home]]
-> - [[Test Home\|Test Home]]
-> - [[aaa\|aaa]]
+>  - [[test note\|test note]]
 > 
 { .block-language-dataview}
 
