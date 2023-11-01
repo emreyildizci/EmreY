@@ -3,14 +3,14 @@
 ---
 
 # What I'm doing
-> [!abstract]+ Reading
+> [!abstract]- Reading
 > > [!Tip]+ Fiction
 > > [[The Blade Itself\|The Blade Itself]]
 > 
 > > [!Info]+ Non-Fiction
 > > [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
 
-> [!Danger]+ Working on
+> [!Danger]- Working on
 > [This website](https://emrey.vercel.app/)
 
 ---
@@ -27,16 +27,3 @@
 - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
 
 { .block-language-dataview}
-
----
-# Test for multi-column w/ css
-> [!multi-column]
->
->> [!note]+ Work
->>  1
->
->> [!warning]+ Personal
->> your notes or lists here. using markdown formatting
->
->> [!summary]+ Charity
->> your notes or lists here. using markdown formatting
