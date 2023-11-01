@@ -6,9 +6,7 @@
 ali
 :::
 a
-::: hidden
-ali
-:::
+Soon to be published1
 testx
 ?
 > [!Tip]- My setup
