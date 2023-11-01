@@ -33,7 +33,7 @@
 > [!multi-column]
 >
 >> [!note]+ Work
->> your notes or lists here. using markdown formatting
+>>  1
 >
 >> [!warning]+ Personal
 >> your notes or lists here. using markdown formatting
