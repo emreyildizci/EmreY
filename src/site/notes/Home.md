@@ -5,19 +5,18 @@
 # What I'm doing now
 
 > [!abstract]- Reading
-> > [!Tip]- Fiction
+> > [!Caption|left]+ Fiction
 > > [[The Blade Itself\|The Blade Itself]]
 > 
-> > [!Info]- Non-Fiction
-> 
+> > [!Caption|right]- Non-Fiction
+> > [[Freakonomics\|Freakonomics]]
 > 
 
 > [!Danger]- Working on
 > [This website](https://emrey.vercel.app/)
 
 > [!Tip ]- Notes I worked on today
->  - [[test note\|test note]]
-> - [[Vocabulary\|Vocabulary]]
+>  - [[Vocabulary\|Vocabulary]]
 > 
 { .block-language-dataview}
 
@@ -51,7 +50,6 @@
 { .block-language-dataview}
 
 > [!Tip]- Personal
->  - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
-> 
+>  
 { .block-language-dataview}
 
