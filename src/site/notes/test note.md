@@ -31,3 +31,13 @@ test content
 > 	- [[Link\|Card]]
 > - Text
 > 	- [ ] Text
+> - Notes I'm working on
+> 	 - [[Home\|Home]]
+> - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
+> - [[Consumed Content/YouTube/Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast\|Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast]]
+> - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
+> - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
+> - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
+> - [[Vocabulary\|Vocabulary]]
+> 
+{ .block-language-dataview}
