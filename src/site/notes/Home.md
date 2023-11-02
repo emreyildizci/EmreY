@@ -15,13 +15,13 @@
 ### Working on
 > [!kanban|no-t]+
 > - ##### General
-> 	Research
-> 	[This website](https://emrey.vercel.app/)
-> 	Reading [[The Blade Itself\|The Blade Itself]]
+> 	- Research
+> 	- [This website](https://emrey.vercel.app/)
+> 	- Reading [[The Blade Itself\|The Blade Itself]]
 > 
 > - ##### On the website
-> 	Home page design
-> 	Banners
+> 	- Home page design
+> 	- Banners
 
 > [!Tip ]- Notes I worked on recently
 >  - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
