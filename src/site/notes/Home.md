@@ -5,10 +5,10 @@
 # What I'm doing now
 ### Reading
 > [!column|no-t] 
-> > [!Tip]+ Fiction
+> > [!Tip] Fiction
 > > [[The Blade Itself\|The Blade Itself]]
 > 
-> > [!Info]+ Non-Fiction
+> > [!Info] Non-Fiction
 > > [[Freakonomics\|Freakonomics]]
 
 ### Working on
