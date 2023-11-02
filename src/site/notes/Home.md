@@ -5,10 +5,10 @@
 # What I'm doing now
 ### Reading
 > [!kanban|no-t]+ 
-> - ###### Fiction
+> - **Fiction**
 > 	[[The Blade Itself\|The Blade Itself]]
 > 	![Image|125](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
-> - ###### Non-Fiction
+> - **Non-Fiction**
 > 	[[Freakonomics\|Freakonomics]]
 > 	![image|125](https://m.media-amazon.com/images/I/81JgAez6wHL._AC_UF1000,1000_QL80_.jpg)
 
@@ -65,4 +65,3 @@
 > [!Tip]- Personal
 >  
 { .block-language-dataview}
-
