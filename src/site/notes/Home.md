@@ -4,12 +4,13 @@
 
 # What I'm doing now
 ### Reading
-> [!column|no-t] 
-> > [!Tip] Fiction
-> > [[The Blade Itself\|The Blade Itself]]
-> 
-> > [!Info] Non-Fiction
-> > [[Freakonomics\|Freakonomics]]
+> [!kanban|no-t]+ 
+> - ###### Fiction
+> 	[[The Blade Itself\|The Blade Itself]]
+> 	![Image|75](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
+> - ###### Non-Fiction
+> 	[[Freakonomics\|Freakonomics]]
+> 	![image|75](https://m.media-amazon.com/images/I/81JgAez6wHL._AC_UF1000,1000_QL80_.jpg)
 
 ### Working on
 > [!Column|no-t]
