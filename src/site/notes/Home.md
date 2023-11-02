@@ -14,12 +14,12 @@
 
 ### Working on
 > [!kanban|no-t]+
-> - ###### General
+> - #### General
 > 	Research
 > 	[This website](https://emrey.vercel.app/)
 > 	Reading [[The Blade Itself\|The Blade Itself]]
 > 
-> - ###### On the website
+> - ### On the website
 > 	Home page design
 > 	Banners
 
