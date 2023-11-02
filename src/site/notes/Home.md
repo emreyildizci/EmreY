@@ -6,7 +6,7 @@
 ### Reading
 > [!kanban|no-t]+ 
 > - ##### Fiction
-> 	[[The Blade Itself\|The Blade Itself]]
+> 	[[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
 > 	![Image|125](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
 > - ##### Non-Fiction
 > 	[[Freakonomics\|Freakonomics]]
@@ -17,7 +17,7 @@
 > - ##### General
 > 	- Research
 > 	- [This website](https://emrey.vercel.app/)
-> 	- Reading [[The Blade Itself\|The Blade Itself]]
+> 	- Reading [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
 > 
 > - ##### On the website
 > 	- Home page design
@@ -42,6 +42,7 @@
 
 > [!Danger]- Notes
 >  - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
+> - [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
 > 
 { .block-language-dataview}
 
@@ -51,6 +52,7 @@
 >  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
+> - [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
 > 
 { .block-language-dataview}
 
