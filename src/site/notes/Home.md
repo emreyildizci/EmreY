@@ -7,21 +7,21 @@
 > [!kanban|no-t]+ 
 > - ###### Fiction
 > 	[[The Blade Itself\|The Blade Itself]]
-> 	![Image|75](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
+> 	![Image|125](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
 > - ###### Non-Fiction
 > 	[[Freakonomics\|Freakonomics]]
-> 	![image|75](https://m.media-amazon.com/images/I/81JgAez6wHL._AC_UF1000,1000_QL80_.jpg)
+> 	![image|125](https://m.media-amazon.com/images/I/81JgAez6wHL._AC_UF1000,1000_QL80_.jpg)
 
 ### Working on
-> [!Column|no-t]
-> > [!Danger]+ General
-> > - Research
-> > - [This website](https://emrey.vercel.app/)
-> > - Reading [[The Blade Itself\|The Blade Itself]]
+> [!kanban|no-t]+
+> - ###### General
+> 	Research
+> 	[This website](https://emrey.vercel.app/)
+> 	Reading [[The Blade Itself\|The Blade Itself]]
 > 
-> > [!Danger]+ On the website
-> > - Home page design
-> > - Banners
+> - ###### On the website
+> 	Home page design
+> 	Banners
 
 > [!Tip ]- Notes I worked on recently
 >  - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
@@ -48,7 +48,7 @@
 
 ---
 # Notes on the website
-> [!cards|3]
+> [!Tip]- See
 > **Books**
 >  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
