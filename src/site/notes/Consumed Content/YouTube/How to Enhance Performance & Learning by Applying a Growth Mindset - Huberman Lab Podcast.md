@@ -13,6 +13,7 @@
 - Neuroplasticity happens at best 0-25 but can happen afterwards
 - **Mindset organizes** information
 - Intelligence isn't fixed
+
 > [!info]- Attaches narratives, I'm bad at music, good at science
 > - Do these narratives come from outside or inside?
 > - Why am I good/bad at this?
