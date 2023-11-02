@@ -16,7 +16,8 @@
 > [This website](https://emrey.vercel.app/)
 
 > [!Tip ]- Notes I worked on today
->  - [[Vocabulary\|Vocabulary]]
+>  - [[test note\|test note]]
+> - [[Vocabulary\|Vocabulary]]
 > 
 { .block-language-dataview}
 
