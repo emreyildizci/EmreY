@@ -29,7 +29,6 @@
 > - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
-> - [[test note\|test note]]
 > - [[Vocabulary\|Vocabulary]]
 > 
 { .block-language-dataview}
