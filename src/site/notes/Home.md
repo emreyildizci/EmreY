@@ -3,20 +3,33 @@
 ---
 
 # What I'm doing now
-
-> [!abstract]- Reading
-> > [!Caption|left]+ Fiction
+### Reading
+> [!column|no-t] 
+> > [!Tip]+ Fiction
 > > [[The Blade Itself\|The Blade Itself]]
 > 
-> > [!Caption|right]- Non-Fiction
+> > [!Info]+ Non-Fiction
 > > [[Freakonomics\|Freakonomics]]
+
+### Working on
+> [!Column|no-t]
+> > [!Danger]+ General
+> > - Research
+> > - [This website](https://emrey.vercel.app/)
+> > - Reading [[The Blade Itself\|The Blade Itself]]
 > 
+> > [!Danger]+ On the website
+> > - Home page design
+> > - Banners
 
-> [!Danger]- Working on
-> [This website](https://emrey.vercel.app/)
-
-> [!Tip ]- Notes I worked on today
->  - [[Vocabulary\|Vocabulary]]
+> [!Tip ]- Notes I worked on recently
+>  - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
+> - [[Consumed Content/YouTube/Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast\|Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast]]
+> - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
+> - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
+> - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
+> - [[test note\|test note]]
+> - [[Vocabulary\|Vocabulary]]
 > 
 { .block-language-dataview}
 
@@ -34,22 +47,22 @@
 
 ---
 # Notes on the website
-
-> [!Tip]- Books
+> [!cards|3]
+> **Books**
 >  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
 > 
 { .block-language-dataview}
-
-> [!Tip]- YouTube
+> 
+> **Youtube**
 >  - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
 > - [[Consumed Content/YouTube/Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast\|Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast]]
 > - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
 > 
 { .block-language-dataview}
-
-> [!Tip]- Personal
+> 
+> **Personal**
 >  
 { .block-language-dataview}
 
