@@ -9,7 +9,7 @@
 > 	[[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
 > 	![Image|125](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
 > - ##### Non-Fiction
-> 	[[Freakonomics\|Freakonomics]]
+> 	[[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > 	![image|125](https://m.media-amazon.com/images/I/81JgAez6wHL._AC_UF1000,1000_QL80_.jpg)
 
 ### Working on
@@ -18,6 +18,7 @@
 > 	- Research
 > 	- [This website](https://emrey.vercel.app/)
 > 	- Reading [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
+> 	- Projects board on Obsidian
 > 
 > - ##### On the website
 > 	- Home page design
@@ -29,7 +30,7 @@
 > - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
-> - [[Vocabulary\|Vocabulary]]
+> - [[Personal/Vocabulary\|Vocabulary]]
 > 
 { .block-language-dataview}
 
@@ -41,8 +42,10 @@
 > - [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 > [!Danger]- Notes
->  - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
+>  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
+> - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
 > - [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
+> - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > 
 { .block-language-dataview}
 
@@ -53,6 +56,7 @@
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
 > - [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
+> - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > 
 { .block-language-dataview}
 
@@ -64,5 +68,7 @@
 { .block-language-dataview}
 
 > [!Tip]- Personal
->  
+>  - [[Personal/Vocabulary\|Vocabulary]]
+> 
 { .block-language-dataview}
+
