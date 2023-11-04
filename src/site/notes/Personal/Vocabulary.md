@@ -1,0 +1,154 @@
+---
+{"dg-publish":true,"permalink":"/personal/vocabulary/"}
+---
+
+#### *Where do these words come from?*
+They are from the books I read.
+
+#### *What do I do with these?*
+I have a flashcard set on Quizlet. I plan on switching to a different app to incorporate spaced repetition technique.
+
+#### *How do I import them to Quizlet?*
+I set up a system where I give chatgpt the word and the sentence it is in (to provide context). It gives me the definition. It also keeps a running list and gives me the list when I want them to batch import to Quizlet
+
+## Words (139)
+
+- Gust - Rain fell in great sweeping gusts that rattled the rooftops
+- Heap - Chunks of land that had been steady for generations fell like slag heaps on the roads below
+- Tended - She walked through blocks of well-tended homes
+- Frayed - He was dressed in his frayed military jacket
+- Reticence - She knew about that reticence when her father were afraid of giving voice to scary thoughts
+- Acrid - She knew about the acrid, familiar scent of her father's cigarettes
+- Bleak - It was a cold, bleak morning in April
+- Patter - She was listening to rain patter the roof
+- Captivate - Reading about it captivated me
+- Splayed out - The pages of the book were splayed out
+- Crinkle - He was smiling so big it crinkled his face
+- Cawing - Seagulls cawed to them
+- Perch - The town was perched on pilings above mudflats
+- Charred - The building was a charred husk
+- Husk - The building was a charred husk
+- Sidle in - She sidled in behind him
+- Mole - Tiny black moles dotted her face
+- Clattering - Bone bracelets were clattering on her wrists
+- Muscle in - Peaks muscled in close
+- Judicious - She had to be judicious with the film
+- Shushing - She felt icy water shushing over her boots
+- Clawing - Wind was clawing to get in
+- Stringy - His arms were stringy
+- Heel - Heel of his palm was aching
+- Pretense - They played it for as long as they could stand the pretense
+- Scramble - She scrambled out of her bed
+- Pipeline - The city was growing fast because of the pipeline
+- Sporadic - Her makeup was sporadic
+- Foraging - He was a skilled forager
+- Ubiquitous - We forget how ubiquitous our stuff is
+- Affluent - The original affluent society
+- Exonerate - Scholars try to exonerate our species
+- Scapegoat - The usual scapegoat was the climate
+- Upheaval - The change wasn't a very remarkable upheaval
+- Circumstantial - The evidence is circumstantial
+- Protrude - The spikes were protruding from the back of his skull
+- Hefting - He was hefting the spike
+- Gag - His prisoner wore no gag
+- Trembling - The prisoner was trembling
+- Relish - He was relishing the pain
+- Reeking - The scent reeked with the stench of blood
+- Whimpering - The man was whimpering
+- Pounding - He was pounding with a hammer
+- Perpetual - The caves were in perpetual darkness
+- Haze - The cold air has no pollution and very little haze
+- Peering - He was peering through the fallen ash
+- Manor - He got them from the lord's manor
+- Cresting - The man crested the top of the tower
+- Mustering - He demanded with as much courage as he could muster
+- Chameleon - He had a chameleon-like career
+- Wield - They were very powerful but someone had to wield them
+- Coercion - It is impossible to organize an army solely by coercion
+- Cynic - He was a true cynic
+- Reconcile - Cultures are constantly trying to reconcile these contradictions
+- Meek - You need to be meek like Jesus
+- Extravagance - Avoid violence and extravagance
+- Pensive - You need to be in a meek and pensive mood
+- Grappling with - They were grappling with the contradiction
+- Prowess - They were trying to demonstrate their military prowess
+- Discord - Discord in our thoughts compel us to think
+- Compel - The compelling storyline of the novel kept me reading late into the night
+- Pristine - A pristine set of values
+- Enquire - You should enquire into the subtleties of his culture
+- Scuffle - The standards were scuffled
+- Ravenous - Not even the most ravenous man could eat that
+- Blot - It was a blot on my reputation
+- Subversion - It was an act of subversion against the power
+- Adorn - The king's name and picture adorned it
+- Gospel - The gospel of gold
+- Afflicting - He was afflicted by the disease
+- Salient - The benefits were sometimes salient and sometimes questionable
+- Endowing - They were endowing the barbarians with peace
+- Purge - These are political movements that seek to purge human culture of imperialism
+- Grate - The cell was actually nothing more than a grate-covered stone pit
+- Benign - These are benign principles
+- Corroding - It corrodes the relationships
+- Frivolous - He learned to play the frivolous games of nobility
+- Pampered - He was living the pampered life
+- Taut - His muscles became taut
+- Burly - He was a burly leader
+- Nimble - He was nimble
+- Speck - A speck appeared in the sky
+- Tenet - The paper had the tenets of his people
+- Partaker - His body was functioning as a partaker of the divine whole
+- Portly - He was a portly man
+- Puttering around - He was puttering around with the papers
+- Gawking - Everyone gawked at him
+- Dilapidated - There was an odd dilapidated building there
+- Grove - A large grove of trees filled the corner
+- Menacing - He expected her to wear something more menacing
+- Scowl - There was nothing to fear other than the permanent scowl
+- Sheathing - He sheathed his knife
+- Drab - His office looked small and drab
+- Florid - He was a vast, florid man
+- Confiscated - It was confiscated from that
+- Lolled - His head was lolled sideways
+- Jolt - Logen woke with a painful jolt
+- Bleary - He opened his eyes a bleary crack
+- Floundering - He was floundering in the snow
+- Glistening - The bright blade of his knife was glistening with wet
+- Uncanny - He discovered an uncanny talent for the game
+- Fiscal - His father talked about his good fiscal planning
+- Indignant - He was becoming ever more indignant with each passing moment
+- Sternly - He looked sternly out
+- Lunge - He made a couple more clumsy lunges
+- Chaperone - They were accompanied by an elderly chaperone
+- Retinue - He was holding his retinue
+- Parapet - He leaned on the parapet
+- Moat - The trees were circled by its wide moat
+- Studded - The castle was studded with a hundred lofty towers
+- Wincing - He winced
+- Carousing - I want you to stop carousing
+- Ridge - We parted on the ridge
+- Impassively - He looked impassively
+- Shin - He kicked him in the shin
+- Chisel - They did it with a tiny chisel
+- Barren - The north is wide and barren
+- Moor - Now, the moors were often soaked by sudden rains
+- Plastered - He had his long hair plastered to his head
+- Wither Away - Once he puts you on the back foot, you wither away
+- Boasting - His father was always boasting about his skill
+- Spouting - He was spouting
+- Hobbling - He hobbled stiffly back towards that way
+- Beaming - The sergeant beamed in response
+- Terse - He favored him with a terse nod
+- Stride Off - He saluted and strode off
+- Scowl - He said the name with a scowl
+- Bore - He can be such a bore
+- Dismay - To his great dismay, she refused to be moved
+- Prickled - The lake surface is prickled by the rain
+- Stride - The opposite shore was a hundred strides away
+- Gruff - Said with a gruff voice
+- Trudging Away - He trudged away without another word
+- Jumbled - A jumbled mess of other buildings crowded around their feet
+- Heaving - He heaved in a ragged breath
+- Dwindling - They are dwindling
+- Fawn - He wanted people to fawn and smile around him
+- Lamentable - Your sparring is lamentable
+- Tedium - He prepared himself for several hours of the most extreme tedium
