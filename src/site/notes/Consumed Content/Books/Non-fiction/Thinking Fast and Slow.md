@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/consumed-content/books/non-fiction/thinking-fast-and-slow/"}
 ---
 
+*Incomplete*
 # Notes
 - Cognitive busyness
 	- Self-control and cognitive efforts are forms of mental work. You are more likely to indulge in something when you are busy with a cognitive task
