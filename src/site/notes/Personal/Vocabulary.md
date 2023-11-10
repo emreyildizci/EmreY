@@ -11,7 +11,7 @@ I have a flashcard set on Quizlet. I plan on switching to a different app to inc
 #### *How do I import them to Quizlet?*
 I set up a system where I give chatgpt the word and the sentence it is in (to provide context). It gives me the definition. It also keeps a running list and gives me the list when I want them to batch import to Quizlet
 
-## Words (138)
+## Words (160)
 Gust - Rain fell in great sweeping gusts that rattled the rooftops:::a sudden strong blast of wind
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Heap - Chunks of land that had been steady for generations fell like slag heaps on the roads below:::a pile or mass of things thrown or lying together in a disorderly manner
@@ -288,17 +288,13 @@ Lamentable - Your sparring is lamentable:::deserving of regret, pity, or disappo
 <!--SR:!2023-11-12,3,250!2023-11-12,3,250-->
 Tedium - He prepared himself for several hours of the most extreme tedium:::the state of being tedious, monotonous, or boring; a feeling of weariness or dullness that arises from repetitious or uninteresting tasks or activities.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
-### Nov 9, 2023
+### Nov 9, 2023 (22)
 Hollow - The wind blew keenly through the hollow in spite of the trees:::a low, depressed, or concave area of land, often surrounded by higher ground, which can create a channel for winds to flow through; a place or area that is empty, vacant, or lacking in substance or depth.
 
 Stem - He peered at the short stem that she was holding up to him:::the slender and usually cylindrical part of a plant that supports leaves, flowers, or fruit, often arising from the ground or a larger branch; a thin, upright, or supporting structure of a plant.
 
 Trotting - The apprentice trotted the words out as if by rote:::to recite or say something in a quick, steady, and often monotonous manner, as if following a set pattern or memorized sequence, often without much thought or expression.
 
-Stem - He peered at the short stem that she was holding up to him:::the slender and usually cylindrical part of a plant that supports leaves, flowers, or fruit, often arising from the ground or a larger branch; a thin, upright, or supporting structure of a plant.
-
-Trotting - The apprentice trotted the words out as if by rote:::to recite or say something in a quick, steady, and often monotonous manner, as if following a set pattern or memorized sequence, often without much thought or expression.
-
 Mounting - This shop provides equipment for the mounting of plays:::the process of preparing, organizing, or setting up something, often used to describe the arrangement and preparation of a theatrical production or play before it is performed on stage.
 
 Plump - A small, plump man emerged from a door:::having a full, rounded, and often pleasantly rounded or chubby appearance, typically used to describe a person or object that is slightly overweight in a pleasing way.
@@ -326,44 +322,6 @@ Prattling - He clicked his tongue in disgust at the state of the place and pratt
 
 Tottering - He tottered across the bridge:::to move unsteadily or with an unsteady gait, often used to describe someone or something that is swaying, stumbling, or wavering as they walk, typically due to weakness, instability, or imbalance.
 <!--SR:!2023-11-10,1,242!2000-01-01,1,250-->
-
-Churned - His guts were churned:::to cause a state of agitation, turmoil, or intense emotional upset, often used to describe a feeling of restlessness, anxiety, or inner turmoil that affects a person emotionally or physically.
-
-Sinewy - Her long and sinewy arm was stuck out:::having strong, lean, and well-developed muscles and tendons, often used to describe a person or animal with a physically fit and muscular physique, typically with prominent or defined muscles.
-
-Scowling - Across her scowling lips:::to have a displeased, angry, or frowning facial expression, often characterized by a furrowing of the brows, downturned mouth, and a generally unhappy or disapproving appearance.
-
-Wear Down - She was worn down by years in the wilderness:::to become physically or emotionally exhausted, often due to persistent or long-term challenges or difficult conditions, leading to a state of weariness, fatigue, or depletion of energy.
-
-Battered - His face was so battered:::having suffered physical harm or injury, often used to describe something that has been damaged or beaten up, typically resulting in visible bruises, cuts, or other signs of trauma.
-
-Fling - She used dirt to fling in his face:::to throw or toss something with force, often used to describe a sudden and vigorous movement or action of throwing an object, typically in a careless or impulsive manner.
-
-Mounting - This shop provides equipment for the mounting of plays:::the process of preparing, organizing, or setting up something, often used to describe the arrangement and preparation of a theatrical production or play before it is performed on stage.
-
-Plump - A small, plump man emerged from a door:::having a full, rounded, and often pleasantly rounded or chubby appearance, typically used to describe a person or object that is slightly overweight in a pleasing way.
-
-Gentry - They have gentry to trade:::people of a particular social class or status, often associated with the upper or land-owning classes, characterized by their wealth, education, and social privilege; the well-educated and genteel members of society.
-
-Fever - There’s an absolute fever about the contest:::a state of intense excitement, enthusiasm, or passion, often used to describe a strong and contagious enthusiasm or interest in a particular event, activity, or competition.
-
-Wharves - She could see another fortress, another set of wharves:::a structure or platform built along the shore of a body of water, typically used for the loading and unloading of ships, as well as for other maritime activities; a place where vessels can dock to facilitate the exchange of goods and passengers.
-
-Spurring - The soldier spurred his horse right at them:::the action of using spurs (sharp, pointed devices attached to a rider's boots) to prompt a horse to move forward or increase its speed; the act of encouraging or motivating someone or something to take action or move more quickly.
-
-Gleam - The way the sun gleams on the myriad canals was beautiful:::a brief and bright flash or glimmer of light, often caused by the reflection of sunlight, creating a shining or sparkling effect; a sudden or brief display of brightness or radiance.
-
-Scurry Down - She turned that way and scurried down the slope southward:::to move quickly and hurriedly, often with small, fast steps, typically used to describe a person or animal's rapid and somewhat frantic movement in a particular direction.
-
-Ragged - It was a huge dark shape against the ragged clouds:::having an irregular, jagged, or uneven appearance, often used to describe the edges or surface of something that is torn, frayed, or tattered; marked by rough, uneven, or irregular features.
-
-Ostentation - I never saw such ostentation:::excessive display or showiness, often used to describe a flamboyant or extravagant exhibition of wealth, luxury, or success, designed to impress or attract attention.
-
-Tumble Over - The questions tumbled over each other:::to occur or happen in rapid succession, often used to describe a series of events, questions, or actions that follow one another quickly and without a clear break or pause.
-
-Prattling - He clicked his tongue in disgust at the state of the place and prattling all the while:::to talk or chatter in a foolish, inconsequential, or trivial manner, often used to describe someone who is talking incessantly or without making much sense.
-
-Tottering - He tottered across the bridge:::to move unsteadily or with an unsteady gait, often used to describe someone or something that is swaying, stumbling, or wavering as they walk, typically due to weakness, instability, or imbalance.
 
 Churned - His guts were churned:::to cause a state of agitation, turmoil, or intense emotional upset, often used to describe a feeling of restlessness, anxiety, or inner turmoil that affects a person emotionally or physically.
 
