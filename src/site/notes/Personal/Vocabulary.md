@@ -93,7 +93,7 @@ Trembling - The prisoner was trembling:::shaking involuntarily, typically as a r
 Relish - He was relishing the pain:::to take great pleasure or delight in something
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Reeking - The scent reeked with the stench of blood:::emitting a strong, unpleasant smell; smelling strongly and offensively
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Whimpering - The man was whimpering:::to make a series of low, feeble sounds expressive of fear, pain, or discontent
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Pounding - He was pounding with a hammer:::striking repeatedly with force, typically in a loud and heavy manner
@@ -111,11 +111,11 @@ Cresting - The man crested the top of the tower:::reaching the highest point or 
 Mustering - He demanded with as much courage as he could muster:::gathering or assembling (often of troops or forces); summoning up (of strength, courage, or determination)
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Chameleon - He had a chameleon-like career:::displaying the ability to change or adapt easily, especially in appearance or behavior
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-13,3,250-->
 Wield - They were very powerful but someone had to wield them:::to hold and use (a weapon or tool) effectively
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Coercion - It is impossible to organize an army solely by coercion:::the use of force, threats, or intimidation to compel someone to do something against their will
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-12,2,230-->
 Cynic - He was a true cynic:::a person who believes that people are motivated primarily by self-interest; a person who distrusts human sincerity and integrity.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Reconcile - Cultures are constantly trying to reconcile these contradictions:::to find a way to make two different ideas, beliefs, or values exist or be true together; to resolve or make compatible conflicting beliefs or desires.
@@ -125,7 +125,7 @@ Meek - You need to be meek like Jesus:::quiet, gentle, and submissive in nature;
 Extravagance - Avoid violence and extravagance:::excessive or unnecessary spending of money, resources, or effort; lack of restraint in indulging in luxuries or wasteful practices.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Pensive - You need to be in a meek and pensive mood:::deeply thoughtful or reflective in a sad or serious manner; engaged in deep, often melancholic, contemplation.
-<!--SR:!2023-11-10,1,230!2023-11-12,3,250-->
+<!--SR:!2023-11-12,2,230!2023-11-12,3,250-->
 Grappling with - They were grappling with the contradiction:::struggling to come to terms with or understand a complex or difficult situation, problem, or contradiction.
 <!--SR:!2023-11-12,3,250!2023-11-13,4,270-->
 Prowess - They were trying to demonstrate their military prowess:::exceptional skill, expertise, or superior ability in a particular field or activity, especially in combat or competition.
@@ -145,7 +145,7 @@ Ravenous - Not even the most ravenous man could eat that:::extremely hungry; vor
 Blot - It was a blot on my reputation:::a stain, mark, or spot that spoils the appearance or reputation of someone or something; an imperfection or negative aspect.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Subversion - It was an act of subversion against the power:::the act of undermining or seeking to overthrow established authority, systems, or institutions; a deliberate attempt to weaken or overthrow the government or other social or political structures.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Adorn - The king's name and picture adorned it:::to decorate or add beauty to something, typically by adding attractive or ornamental elements.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Gospel - The gospel of gold:::a set of beliefs or principles, often regarded as true or authoritative; in this context, it could refer to a doctrine or set of ideas revolving around the importance or value of gold.
@@ -153,7 +153,7 @@ Gospel - The gospel of gold:::a set of beliefs or principles, often regarded as 
 Afflicting - He was afflicted by the disease:::to cause pain, suffering, or hardship; to affect or trouble someone with a physical or emotional ailment or difficulty.
 <!--SR:!2023-11-12,3,250!2023-11-12,3,250-->
 Salient - The benefits were sometimes salient and sometimes questionable:::prominent, noticeable, or significant; standing out and attracting attention, often used to describe important or main points.
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-12,2,230-->
 Endowing - They were endowing the barbarians with peace:::to provide or grant something, often an abstract quality or characteristic, to someone or something; to furnish or equip with a particular attribute or gift, in this context, it means giving the barbarians the gift of peace.
 <!--SR:!2023-11-13,4,270!2023-11-12,3,250-->
 Purge - These are political movements that seek to purge human culture of imperialism:::to remove or eliminate something, often in a forceful or violent manner; in this context, it refers to the deliberate removal or eradication of imperialism from human culture through political actions or campaigns.
@@ -163,11 +163,11 @@ Grate - The cell was actually nothing more than a grate-covered stone pit:::a fr
 Benign - These are benign principles:::having a gentle or kind disposition; not harmful or dangerous; favorable or beneficial in nature.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Corroding - It corrodes the relationships:::to gradually erode, destroy, or weaken something, especially relationships, trust, or structures, through a slow and persistent process.
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-12,2,230-->
 Frivolous - He learned to play the frivolous games of nobility:::lacking in seriousness or importance; not having any real purpose or value; trivial or silly.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Pampered - He was living the pampered life:::treated with excessive care, attention, or luxury; indulged or spoiled, often in a lavish or self-indulgent manner.
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-13,3,250-->
 Taut - His muscles became taut:::stretched or pulled tight; having no slack; tense or rigid, often used to describe something that is stretched to its limits.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Burly - He was a burly leader:::large, strong, and sturdy in a muscular and robust way; having a heavily built and imposing physical presence.
@@ -185,11 +185,11 @@ Portly - He was a portly man:::having a stout or heavy body; having a large and 
 Puttering around - He was puttering around with the papers:::engaging in small, casual, and often unproductive tasks or activities; moving or working aimlessly or without a specific purpose.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Gawking - Everyone gawked at him:::to stare openly and in amazement, often with a sense of curiosity or surprise; to gaze at something or someone in an uncontrolled and obvious manner.
-<!--SR:!2023-11-10,1,230!2023-11-12,3,250-->
+<!--SR:!2023-11-12,2,230!2023-11-12,3,250-->
 Dilapidated - There was an odd dilapidated building there:::in a state of disrepair or ruin due to neglect, age, or deterioration; showing signs of decay, damage, or wear, often with a rundown or shabby appearance.
-<!--SR:!2023-11-10,1,230!2023-11-12,3,250-->
+<!--SR:!2023-11-12,2,230!2023-11-12,3,250-->
 Grove - A large grove of trees filled the corner:::a small group of trees, especially a group of fruit trees or trees of the same kind, typically growing closely together; a cluster of trees often found in a natural or cultivated setting.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Menacing - He expected her to wear something more menacing:::having a threatening or intimidating appearance or demeanor; causing a sense of danger or harm, often used to describe something that instills fear or apprehension.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Scowl - There was nothing to fear other than the permanent scowl:::to have a facial expression characterized by a deep frown or displeased look, often reflecting anger, annoyance, or disapproval; a persistent and stern facial expression conveying a negative or unfriendly attitude.
@@ -197,7 +197,7 @@ Scowl - There was nothing to fear other than the permanent scowl:::to have a fac
 Sheathing - He sheathed his knife:::to cover or encase something, often a blade or weapon, in a protective covering or sheath, typically for safety and to prevent accidental injury.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Drab - His office looked small and drab:::dull, boring, and lacking in color or excitement; having a monotonous or uninteresting appearance.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Florid - He was a vast, florid man:::having a red or flushed complexion, often associated with excessive facial redness or a ruddy appearance; characterized by an overly elaborate or flowery style, typically used to describe speech or writing.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Confiscated - It was confiscated from that:::to take possession of something, often by a legal or authoritative action, due to a violation of rules or laws; to seize or expropriate property or assets.
@@ -207,21 +207,21 @@ Lolled - His head was lolled sideways:::to hang or droop in a relaxed or careles
 Jolt - Logen woke with a painful jolt:::a sudden, sharp, and often unpleasant shock or jerk, typically causing a sudden physical or emotional reaction.
 <!--SR:!2023-11-12,3,250!2023-11-13,4,270-->
 Bleary - He opened his eyes a bleary crack:::having eyes that are tired, blurred, or unfocused, often due to fatigue, lack of sleep, or the effects of alcohol or illness; characterized by a drowsy and unclear vision.
-<!--SR:!2023-11-10,1,230!2023-11-12,3,250-->
+<!--SR:!2023-11-12,2,230!2023-11-12,3,250-->
 Floundering - He was floundering in the snow:::to struggle or move clumsily and with difficulty, often in a situation where progress or control is lost; to make uncoordinated or ineffective efforts to navigate through a challenging or unfamiliar environment.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Glistening - The bright blade of his knife was glistening with wet:::to shine or sparkle with a wet or shiny surface, often due to the presence of moisture or a reflective substance, creating a gleaming or radiant appearance.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-11,1,210-->
 Uncanny - He discovered an uncanny talent for the game:::strange, mysterious, or beyond what is normal or expected; having an extraordinary or unsettling quality that seems almost supernatural.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Fiscal - His father talked about his good fiscal planning:::related to finances, especially the management of money and financial matters; pertaining to economic or budgetary considerations.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Indignant - He was becoming ever more indignant with each passing moment:::feeling anger or resentment due to a perceived injustice, unfair treatment, or violation of one's rights or principles; expressing strong displeasure or righteous anger.
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-12,2,230-->
 Sternly - He looked sternly out:::in a strict, serious, and no-nonsense manner; with a severe or forbidding expression, often conveying disapproval or authority.
 <!--SR:!2023-11-12,3,250!2023-11-12,3,250-->
 Lunge - He made a couple more clumsy lunges:::a sudden forward movement or thrust, typically used to describe a sudden and often aggressive movement or action, such as a quick step forward or a sudden attack.
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-12,2,230-->
 Chaperone - They were accompanied by an elderly chaperone:::a person, often an older individual, who accompanies and supervises others, especially to ensure proper behavior, safety, or propriety, typically used in contexts like social gatherings or events.
 <!--SR:!2023-11-12,3,250!2023-11-13,4,270-->
 Retinue - He was holding his retinue:::a group of attendants, followers, or associates who accompany and support an important person, often used to describe a group of individuals who accompany a leader or dignitary.
@@ -229,11 +229,11 @@ Retinue - He was holding his retinue:::a group of attendants, followers, or asso
 Parapet - He leaned on the parapet:::a low protective wall or barrier, often at the edge of a roof, balcony, bridge, or elevated structure, designed to prevent falls and provide safety.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Moat - The trees were circled by its wide moat:::a deep, wide trench, often filled with water, that surrounds a fortified structure such as a castle or fort, serving as a defensive barrier and obstacle to attackers.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Studded - The castle was studded with a hundred lofty towers:::decorated or adorned with numerous prominent and often ornate features, such as towers, typically used to describe a building's exterior that is richly decorated or embellished.
 <!--SR:!2023-11-13,4,270!2023-11-12,3,250-->
 Wincing - He winced:::to make a sudden, involuntary movement or expression of pain, discomfort, or distress, often due to a physical or emotional stimulus that causes a sharp or unpleasant sensation.
-<!--SR:!2023-11-13,4,270!2023-11-10,1,230-->
+<!--SR:!2023-11-13,4,270!2023-11-11,1,210-->
 Carousing - I want you to stop carousing:::engaging in lively and noisy revelry, often involving drinking and socializing with others in a festive or boisterous manner; to party or celebrate in an exuberant and often unrestrained way.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Ridge - We parted on the ridge:::a long, narrow elevated area of land, typically with a crest or summit, often forming a prominent natural feature in the landscape; a high point or crest of a hill or mountain.
@@ -245,37 +245,37 @@ Shin - He kicked him in the shin:::the front part of the leg below the knee, oft
 Chisel - They did it with a tiny chisel:::a sharp-edged metal tool with a flat end used for cutting, shaping, or carving materials, often by chipping away small pieces; to work on or sculpt something using a chisel.
 <!--SR:!2023-11-12,3,250!2023-11-13,4,270-->
 Barren - The north is wide and barren:::desolate, unproductive, and lacking in vegetation or fertility; often used to describe a landscape that is stark, empty, and unable to support much life or vegetation.
-<!--SR:!2023-11-10,1,230!2023-11-12,3,250-->
+<!--SR:!2023-11-12,2,230!2023-11-12,3,250-->
 Moor - Now, the moors were often soaked by sudden rains:::a broad, open, and typically flat or rolling area of land, often covered with heather, grass, and low shrubs, found in upland regions and characterized by a wet and often boggy or marshy terrain.
 <!--SR:!2023-11-13,4,270!2023-11-12,3,250-->
 Plastered - He had his long hair plastered to his head:::to be firmly pressed against or stuck to a surface, often due to moisture, sweat, or a sticky substance, creating a flattened or adhered appearance.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Wither Away - Once he puts you on the back foot, you wither away:::to gradually decline or diminish in strength, vitality, or effectiveness; to weaken or deteriorate over time, often in response to pressure, challenges, or unfavorable circumstances.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Boasting - His father was always boasting about his skill:::engaging in excessive self-praise or the act of bragging about one's abilities, achievements, or possessions, often in a way that is intended to impress or show off.
 <!--SR:!2023-11-12,3,250!2023-11-12,3,250-->
 Spouting - He was spouting:::to speak or express something in an enthusiastic, rapid, and often forceful manner, typically used to describe someone who is talking passionately or at length about a particular topic or idea.
-<!--SR:!2023-11-10,1,230!2023-11-10,1,230-->
+<!--SR:!2023-11-12,2,230!2023-11-12,2,230-->
 Hobbling - He hobbled stiffly back towards that way:::to walk or move with difficulty or a limp, often due to pain, injury, stiffness, or an impaired ability to walk normally.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Beaming - The sergeant beamed in response:::to have a radiant or cheerful expression on one's face, often characterized by a wide and warm smile or a look of happiness and pride.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Terse - He favored him with a terse nod:::brief and to the point; concise and without unnecessary words, often used to describe a response or communication that is concise and lacks elaboration.
-<!--SR:!2023-11-10,1,230!2023-11-10,1,230-->
+<!--SR:!2023-11-12,2,230!2023-11-12,2,230-->
 Stride Off - He saluted and strode off:::to walk away confidently and purposefully with long and determined steps, often indicating a sense of self-assuredness or a clear direction of movement.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Bore - He can be such a bore:::a person who is dull, uninteresting, or tedious to be around; someone who lacks excitement, enthusiasm, or engaging qualities in their conversation or behavior.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Dismay - To his great dismay, she refused to be moved:::a feeling of disappointment, worry, or distress caused by an unexpected or unfavorable event; a sense of unease or discouragement in response to an unwanted outcome or situation.
-<!--SR:!2023-11-10,1,230!2023-11-10,1,230-->
+<!--SR:!2023-11-12,2,230!2023-11-12,2,230-->
 Prickled - The lake surface is prickled by the rain:::to be covered with small, sharp, and often tingling sensations, typically used to describe a surface that is dotted or covered with tiny points or droplets that create a tingling or stinging feeling.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Stride - The opposite shore was a hundred strides away:::a long step or walk that covers a significant distance, often used as a measure of length; a single, purposeful step taken with determination and purpose, typically covering a large span of ground.
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 Gruff - Said with a gruff voice:::having a rough, harsh, and often low-pitched or grating vocal tone, often used to describe a voice that sounds unfriendly or brusque in manner.
 <!--SR:!2023-11-12,3,250!2023-11-13,4,270-->
 Trudging Away - He trudged away without another word:::to walk slowly and wearily with heavy steps, often due to exhaustion, dejection, or a lack of enthusiasm; to move away with a sense of tiredness or resignation.
-<!--SR:!2023-11-12,3,250!2023-11-10,1,230-->
+<!--SR:!2023-11-12,3,250!2023-11-12,2,230-->
 Jumbled - A jumbled mess of other buildings crowded around their feet:::in a state of disorder or confusion, often used to describe a situation where things are mixed up, disorganized, or not arranged in a neat or logical order.
 <!--SR:!2023-11-12,3,250!2023-11-12,3,250-->
 Heaving - He heaved in a ragged breath:::to take a deep and often labored breath, typically as a result of exertion, strong emotion, or physical effort; the act of inhaling deeply and forcefully.
@@ -290,47 +290,67 @@ Tedium - He prepared himself for several hours of the most extreme tedium:::the 
 <!--SR:!2023-11-13,4,270!2023-11-13,4,270-->
 ### Nov 9, 2023 (22)
 Hollow - The wind blew keenly through the hollow in spite of the trees:::a low, depressed, or concave area of land, often surrounded by higher ground, which can create a channel for winds to flow through; a place or area that is empty, vacant, or lacking in substance or depth.
+<!--SR:!2023-11-13,3,262!2023-11-13,3,261-->
 
 Stem - He peered at the short stem that she was holding up to him:::the slender and usually cylindrical part of a plant that supports leaves, flowers, or fruit, often arising from the ground or a larger branch; a thin, upright, or supporting structure of a plant.
+<!--SR:!2023-11-13,3,261!2023-11-11,1,242-->
 
 Trotting - The apprentice trotted the words out as if by rote:::to recite or say something in a quick, steady, and often monotonous manner, as if following a set pattern or memorized sequence, often without much thought or expression.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,242-->
 
 Mounting - This shop provides equipment for the mounting of plays:::the process of preparing, organizing, or setting up something, often used to describe the arrangement and preparation of a theatrical production or play before it is performed on stage.
+<!--SR:!2023-11-11,1,242!2023-11-13,3,261-->
 
 Plump - A small, plump man emerged from a door:::having a full, rounded, and often pleasantly rounded or chubby appearance, typically used to describe a person or object that is slightly overweight in a pleasing way.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,242-->
 
 Gentry - They have gentry to trade:::people of a particular social class or status, often associated with the upper or land-owning classes, characterized by their wealth, education, and social privilege; the well-educated and genteel members of society.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,242-->
 
 Fever - There’s an absolute fever about the contest:::a state of intense excitement, enthusiasm, or passion, often used to describe a strong and contagious enthusiasm or interest in a particular event, activity, or competition.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,242-->
 
 Wharves - She could see another fortress, another set of wharves:::a structure or platform built along the shore of a body of water, typically used for the loading and unloading of ships, as well as for other maritime activities; a place where vessels can dock to facilitate the exchange of goods and passengers.
+<!--SR:!2023-11-11,1,241!2023-11-11,1,241-->
 
 Spurring - The soldier spurred his horse right at them:::the action of using spurs (sharp, pointed devices attached to a rider's boots) to prompt a horse to move forward or increase its speed; the act of encouraging or motivating someone or something to take action or move more quickly.
+<!--SR:!2023-11-13,3,261!2023-11-11,1,242-->
 
 Gleam - The way the sun gleams on the myriad canals was beautiful:::a brief and bright flash or glimmer of light, often caused by the reflection of sunlight, creating a shining or sparkling effect; a sudden or brief display of brightness or radiance.
-<!--SR:!2023-11-10,1,242!2000-01-01,1,250-->
+<!--SR:!2023-11-11,1,222!2023-11-11,1,241-->
 
 Scurry Down - She turned that way and scurried down the slope southward:::to move quickly and hurriedly, often with small, fast steps, typically used to describe a person or animal's rapid and somewhat frantic movement in a particular direction.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,242-->
 
 Ragged - It was a huge dark shape against the ragged clouds:::having an irregular, jagged, or uneven appearance, often used to describe the edges or surface of something that is torn, frayed, or tattered; marked by rough, uneven, or irregular features.
+<!--SR:!2023-11-13,3,261!2023-11-11,1,242-->
 
 Ostentation - I never saw such ostentation:::excessive display or showiness, often used to describe a flamboyant or extravagant exhibition of wealth, luxury, or success, designed to impress or attract attention.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,241-->
 
 Tumble Over - The questions tumbled over each other:::to occur or happen in rapid succession, often used to describe a series of events, questions, or actions that follow one another quickly and without a clear break or pause.
+<!--SR:!2023-11-11,1,241!2023-11-11,1,242-->
 
 Prattling - He clicked his tongue in disgust at the state of the place and prattling all the while:::to talk or chatter in a foolish, inconsequential, or trivial manner, often used to describe someone who is talking incessantly or without making much sense.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,241-->
 
 Tottering - He tottered across the bridge:::to move unsteadily or with an unsteady gait, often used to describe someone or something that is swaying, stumbling, or wavering as they walk, typically due to weakness, instability, or imbalance.
-<!--SR:!2023-11-10,1,242!2000-01-01,1,250-->
+<!--SR:!2023-11-11,1,222!2023-11-13,3,261-->
 
 Churned - His guts were churned:::to cause a state of agitation, turmoil, or intense emotional upset, often used to describe a feeling of restlessness, anxiety, or inner turmoil that affects a person emotionally or physically.
+<!--SR:!2023-11-11,1,241!2023-11-11,1,242-->
 
 Sinewy - Her long and sinewy arm was stuck out:::having strong, lean, and well-developed muscles and tendons, often used to describe a person or animal with a physically fit and muscular physique, typically with prominent or defined muscles.
+<!--SR:!2023-11-11,1,241!2023-11-11,1,242-->
 
 Wear Down - She was worn down by years in the wilderness:::to become physically or emotionally exhausted, often due to persistent or long-term challenges or difficult conditions, leading to a state of weariness, fatigue, or depletion of energy.
+<!--SR:!2023-11-13,3,262!2023-11-13,3,261-->
 
 Battered - His face was so battered:::having suffered physical harm or injury, often used to describe something that has been damaged or beaten up, typically resulting in visible bruises, cuts, or other signs of trauma.
+<!--SR:!2023-11-11,1,242!2023-11-11,1,241-->
 
 Fling - She used dirt to fling in his face:::to throw or toss something with force, often used to describe a sudden and vigorous movement or action of throwing an object, typically in a careless or impulsive manner.
+<!--SR:!2023-11-11,1,241!2023-11-11,1,241-->
 
 Scrawny - There was a scrawny man:::having a lean, thin, and undernourished appearance, typically used to describe a person or animal who appears emaciated, weak, or lacking in physical substance or muscle mass.
+<!--SR:!2023-11-11,1,241!2023-11-11,1,242-->
