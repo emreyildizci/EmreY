@@ -3,21 +3,21 @@
 ---
 
 # What I'm doing now
-### Reading
+### [[Reading\|Reading]]
 > [!kanban|no-t]+ 
 > - ##### Fiction
-> 	[[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
-> 	![Image|125](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
+> 	[Before They Are Hanged](https://www.goodreads.com/en/book/show/902715)
+> 	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179318094i/902715.jpg)
 > - ##### Non-Fiction
-> 	[[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
-> 	![image|125](https://m.media-amazon.com/images/I/81JgAez6wHL._AC_UF1000,1000_QL80_.jpg)
+> 	[Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics) ([[Consumed Content/Books/Non-fiction/Freakonomics\|My Notes]])
+> 	![image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550917827i/1202.jpg)
 
 ### Working on
 > [!kanban|no-t]+
 > - ##### General
 > 	- Research
 > 	- [This website](https://emrey.vercel.app/)
-> 	- Reading [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
+> 	- Reading [[Before They Are Hanged\|Before They Are Hanged]]
 > 	- Projects board on Obsidian
 > 
 > - ##### On the website
@@ -25,7 +25,8 @@
 > 	- Banners
 
 > [!Tip ]- Notes I worked on recently
->  - [[Personal/Vocabulary\|Vocabulary]]
+>  - [[Reading\|Reading]]
+> - [[Personal/Vocabulary\|Vocabulary]]
 > - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
 > - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
