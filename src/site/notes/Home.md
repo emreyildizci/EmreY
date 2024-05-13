@@ -26,7 +26,8 @@
 > 	- Banners
 
 > [!Tip ]- Notes I worked on recently
->  
+>  - [[Reading\|Reading]]
+> 
 { .block-language-dataview}
 
 ---
@@ -65,4 +66,3 @@
 > 
 { .block-language-dataview}
 
-w
