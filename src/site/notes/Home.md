@@ -5,67 +5,59 @@
 # What I'm doing now
 ### [[Reading\|Reading]]
 > [!kanban|no-t]+ 
-> - ##### Fiction
-> 	[Before They Are Hanged](https://www.goodreads.com/en/book/show/902715)
-> 	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179318094i/902715.jpg)
-> - ##### Non-Fiction
-> 	[Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics) ([[Consumed Content/Books/Non-fiction/Freakonomics\|My Notes]])
-> 	![image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550917827i/1202.jpg)
+> - ##### Fantasy
+> 	[Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
+> 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
+> - ##### Productivity
+>	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
+>	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
+> - ##### Islam
+> 	[Hz Muhammed'in (SAV) hayatı ve İslam daveti - Medine dönemi](https://www.kitapyurdu.com/kitap/mekke-ve-medine-donemi-2-cilt-hz-muhammedin-sav-hayati-ve-islam-daveti/76607.html&manufacturer_id=6934)
+> 	![image|95](https://cdn1.dokuzsoft.com/u/kitapburada/img/b/h/z/hz-muhammedin-hayati-ve-islam-daveti-cilt-296da8ef02a4111c512c48079a308318f.jpg)
 
 ### Working on
 > [!kanban|no-t]+
 > - ##### General
 > 	- Research
 > 	- [This website](https://emrey.vercel.app/)
-> 	- Reading [[Before They Are Hanged\|Before They Are Hanged]]
-> 	- Projects board on Obsidian
 > 
 > - ##### On the website
 > 	- Home page design
 > 	- Banners
 
 > [!Tip ]- Notes I worked on recently
->  - [[Personal/Vocabulary\|Vocabulary]]
-> - [[Reading\|Reading]]
-> - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
-> - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
-> - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
-> - [[Consumed Content/YouTube/Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast\|Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast]]
-> - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
-> 
+>  
 { .block-language-dataview}
 
 ---
 # Next
 
 > [!Danger]- Books
-> - [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics)
 > - [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+> 	![image|75](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg)
+> - [The Ottoman Empire: The Classical Age 1300-1600](https://www.goodreads.com/book/show/751881.The_Ottoman_Empire) 
+> 	![Image|75](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328849796i/751881.jpg)
+> - [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics) ([[Consumed Content/Books/Non-fiction/Freakonomics\|My Notes]])
+> 	![image|75](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550917827i/1202.jpg)
 
 > [!Danger]- Notes
 >  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
 > - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
-> - [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
 > - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
+> - [[Consumed Content/Books/Non-fiction/The Ottoman Empire - The Classical Age 1300-1600\|The Ottoman Empire - The Classical Age 1300-1600]]
 > 
 { .block-language-dataview}
 
 ---
 # Notes on the website
 > [!Tip]- Books
->  - [[Consumed Content/Books/Non-fiction/Thinking Fast and Slow\|Thinking Fast and Slow]]
-> - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
+>  - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
-> - [[Consumed Content/Books/Fiction/The Blade Itself\|The Blade Itself]]
-> - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > 
 { .block-language-dataview}
 
 > [!Tip]- YouTube
->  - [[Consumed Content/YouTube/5 Steps to Start Your First Business The CASTLE Method\|5 Steps to Start Your First Business The CASTLE Method]]
-> - [[Consumed Content/YouTube/Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast\|Goals Toolkit- How to Set & Achieve Your Goals - Huberman Lab Podcast]]
-> - [[Consumed Content/YouTube/How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast\|How to Enhance Performance & Learning by Applying a Growth Mindset - Huberman Lab Podcast]]
-> 
+>  
 { .block-language-dataview}
 
 > [!Tip]- Personal
