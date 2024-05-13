@@ -35,7 +35,9 @@
 > 	![image|102](https://m.media-amazon.com/images/I/71fvjKuiXqL._AC_UF1000,1000_QL80_.jpg)
 > - ##### Fantasy
 > 	[The Blade Itself](https://www.goodreads.com/book/show/944073)
-> 	![Image|125](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
+> 	\-
+> 	![Image|117](https://m.media-amazon.com/images/I/51bOdgp6-wL.jpg)
 > - ##### Non-Fiction
 > 	[Sapiens: A Brief History of Humankind](https://www.goodreads.com/en/book/show/23692271)
-> 	![image|110](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg)
+> 	⭐️⭐️⭐️⭐️⭐️
+> 	![image|103](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg)
