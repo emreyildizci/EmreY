@@ -8,12 +8,45 @@
 > - ##### Fantasy
 > 	[Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
+> 	<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18869:21)
+    at evalInContext (plugin:dataview:18870:7)
+    at asyncEvalInContext (plugin:dataview:18880:32)
+    at DataviewJSRenderer.render (plugin:dataview:18906:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
+    at e.load (app://obsidian.md/app.js:1:1167250)
+    at DataviewApi.executeJs (plugin:dataview:19449:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>
 > - ##### Productivity
 >	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
 >	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
+> 	<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18869:21)
+    at evalInContext (plugin:dataview:18870:7)
+    at asyncEvalInContext (plugin:dataview:18880:32)
+    at DataviewJSRenderer.render (plugin:dataview:18906:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
+    at e.load (app://obsidian.md/app.js:1:1167250)
+    at DataviewApi.executeJs (plugin:dataview:19449:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>
 > - ##### Islam
 > 	[Hz Muhammed'in (SAV) hayatı ve İslam daveti - Medine dönemi](https://www.kitapyurdu.com/kitap/mekke-ve-medine-donemi-2-cilt-hz-muhammedin-sav-hayati-ve-islam-daveti/76607.html&manufacturer_id=6934)
 > 	![image|95](https://cdn1.dokuzsoft.com/u/kitapburada/img/b/h/z/hz-muhammedin-hayati-ve-islam-daveti-cilt-296da8ef02a4111c512c48079a308318f.jpg)
+> 	<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18869:21)
+    at evalInContext (plugin:dataview:18870:7)
+    at asyncEvalInContext (plugin:dataview:18880:32)
+    at DataviewJSRenderer.render (plugin:dataview:18906:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
+    at e.load (app://obsidian.md/app.js:1:1167250)
+    at DataviewApi.executeJs (plugin:dataview:19449:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>
 
 ### Working on
 > [!kanban|no-t]+
@@ -26,7 +59,8 @@
 > 	- Banners
 
 > [!Tip ]- Notes I worked on recently
->  - [[Reading\|Reading]]
+>  - [[Personal/Vocabulary\|Vocabulary]]
+> - [[Reading\|Reading]]
 > 
 { .block-language-dataview}
 
