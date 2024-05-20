@@ -18,5 +18,20 @@ It is obvious that we humans, or even most animals enjoy play. It is almost bake
 	- The way we enjoy games differ. Some play soccer just to beat the opponent, some just to score goals, and some, like me, find a challenge and play the game just to score the best goal or dribble the entire opponent team. So what we can do is find our play personalities (8 listed in the book) and apply them to our day to day lives.
 	- Mine
 		- Collector & Joker & Director
-		- [ ] ▭
-		- [ ] ▭ hide
+		- [ ] ▭▭▭▭
+		- [ ] ▭▭▭▭
+- Embrace your curiosity
+	- Pretty straightforward. Give more freedom to your mind to wander
+	- Mine
+		- ▭▭▭▭
+- Think of how to make anything fun
+	- As daunting a task may be there could be a way to make it more fun (or slightly less miserable). Listening to music, lighting a candle etc.
+	- Mine
+		- Brew a cup of tea/coffee ...
+- Enjoy the process, not the outcome
+	- Straightforward, didn't really resonate with me
+- Reframe your failure
+	- See failures as guidance. Again didn't really resonate with me
+- Don't be serious, be sincere
+	- I found this irrelevant
+## Power
