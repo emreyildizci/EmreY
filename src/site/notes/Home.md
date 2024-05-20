@@ -12,7 +12,7 @@
 > - ##### Productivity
 >	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
 >	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
-> 	<progress max=262 value=135> </progress>
+> 	<progress max=262 value=262> </progress>
 > - ##### Islam
 > 	[Hz Muhammed'in (SAV) hayatı ve İslam daveti - Medine dönemi](https://www.kitapyurdu.com/kitap/mekke-ve-medine-donemi-2-cilt-hz-muhammedin-sav-hayati-ve-islam-daveti/76607.html&manufacturer_id=6934)
 > 	![image|95](https://cdn1.dokuzsoft.com/u/kitapburada/img/b/h/z/hz-muhammedin-hayati-ve-islam-daveti-cilt-296da8ef02a4111c512c48079a308318f.jpg)
@@ -50,6 +50,7 @@
 > - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
 > - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > - [[Consumed Content/Books/Non-fiction/The Ottoman Empire - The Classical Age 1300-1600\|The Ottoman Empire - The Classical Age 1300-1600]]
+> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
 
