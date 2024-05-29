@@ -13,12 +13,17 @@ This article will contain my reflections on the book, it is not a book summary. 
 	- So I see productivity being composed of two main components: intention and execution. As long as you spend your time (execution) on what you want (intention), you are productive. Therefore, a college student who wants to spend time with friends all year while barely passing the classes could be as productive as a Nobel laureate or a CEO of a you-choose-how-many-figures company with one millionth of an effort.
 
 
+
 > [!kanban|no-t]+ 
-> # Energize
-> - ##### Play
-> 	text
+> # Title
+> - ##### T1
+>  text
+>  > [!NOTE]+ subtitle
+>  > text
 > - ##### T2
->	text
+>  text
+>  > [!NOTE]+ subtitle
+>  > text
 
 
 ---
