@@ -57,8 +57,9 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > > When we work in synch with others we feel like we are each others comrades even if our work is completely different
 > > 
 > > 
-> > > [!note]+ Help people and ask for it whenever possible
+> > > [!note] Help people and ask for it whenever possible
 
+---
 
 > [!note]+ Unblock
 > > [!note]+ Seek clarity
@@ -118,6 +119,7 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > > To mitigate this, we can celebrate the small wins
 > > 
 
+---
 
 > [!note]+ Sustain
 > Burnout is relative, if you exceed *your* capacity then you are heading towards an inevitable burnout
@@ -130,7 +132,7 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > > > [!note]+ Mine
 > > > > Fill out
 > > 
-> > > [!note]+ Give yourself permission to be distracted
+> > > [!note] Give yourself permission to be distracted
 > 
 > 
 > > [!note]+ Recharge
@@ -152,4 +154,4 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > > > Fill out
 > > 
 > > 
-> > > [!note]+ Go to nature or bring in nature (photos, accessories etc.)
+> > > [!note] Go to nature or bring in nature (photos, accessories etc.)
