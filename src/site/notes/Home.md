@@ -3,6 +3,12 @@
 ---
 
 # What I'm doing now
+
+> [!Tip ]- Notes I worked on recently
+>  - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
+> 
+{ .block-language-dataview}
+
 ### [[Reading\|Reading]]
 > [!kanban|no-t]+ 
 > - ##### Fantasy
@@ -28,12 +34,6 @@
 > 	- Home page design
 > 	- Banners
 
-> [!Tip ]- Notes I worked on recently
->  - [[Personal/Vocabulary\|Vocabulary]]
-> - [[Reading\|Reading]]
-> 
-{ .block-language-dataview}
-
 ---
 # Next
 
@@ -50,7 +50,6 @@
 > - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
 > - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > - [[Consumed Content/Books/Non-fiction/The Ottoman Empire - The Classical Age 1300-1600\|The Ottoman Empire - The Classical Age 1300-1600]]
-> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
 
@@ -59,6 +58,7 @@
 > [!Tip]- Books
 >  - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
+> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
 
