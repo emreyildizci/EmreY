@@ -19,8 +19,71 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > [!note]+ Play
 >  > It is obvious that we humans, or even most animals enjoy play. It is almost baked in the definition of play. So it is only natural to look into play and draw strategies from it
 >  > > [!note]+ Create an adventure
-> > > - The way we enjoy games differ. Some play soccer just to beat the opponent, some just to score goals, and some, like me, find a challenge and play the game just to score the best goal or dribble the entire opponent team. So what we can do is find our play personalities and apply them to our day to day lives.
+> > > The way we enjoy games differ. Some play soccer just to beat the opponent, some just to score goals, and some, like me, find a challenge and play the game just to score the best goal or dribble the entire opponent team. So what we can do is find our play personalities and apply them to our day to day lives.
 > > > ![image|550](https://miro.medium.com/v2/resize:fit:1400/1*pYvd0OiObsXm9wXMbhWV_A.png)
+> > > > [!note]+ Mine
+> > > > Collector & Joker & Director
+> > > > - [ ] ▭▭▭▭
+> > > > - [ ] ▭▭▭▭
+> > 
+> > > [!note]+ Embrace your curiosity
+> > > Pretty straightforward. Give more freedom to your mind to wander
+> > > > [!note]+ Mine
+> > > > - [ ] ▭▭▭▭
+> > 
+> > > [!note]+ Think of how to make anything fun
+> > > As daunting a task may be there could be a way to make it more fun (or slightly less miserable). Listening to music, lighting a candle etc.
+> > > > [!note]+ Mine
+> > > > - Brew a cup of tea/coffee
+> 
+> > [!note]+ Power
+> > > [!note]+ Confidence switch
+> > > > [!note]+ How (or why) it works?
+> > > > To understand why this works, let me attempt to explain how confidence works. Confidence is basically our own assessment of our ability. It stems from past experience, preparations etc. but it is not necessarily immune to present conditions. In fact one could argue that present is just as relevant as past. You could feel confident in one setup but feel unconfident in another. So whenever you feel insecure about something you really have to do just convince yourself that you could act *as if* you are confident. It'll only make things better
+> > > 
+> > > When you find yourself unconfident, you can act as if you suddenly become confident
+> 
+> 
+> > [!note]+ People
+> > In this chapter, the first approach sets the foundation and the subsequent ones could be thought of different ways to utilize that approach
+> > > [!note]+ The comrade mindset
+> > > - We can think of teamwork as a psychological state rather than simply a way of dividing up tasks and people we work with as not just people we work in parallel but our teammates who we work together.
+> > > - One way to implement this mindset is to ask for help and give credit for it as little as it can be.
+> > > 
+> > > > [!note]+ Mine
+> > > > ▭▭▭▭
+> > 
+> > 
+> > > [!note]+ Find synchronicity
+> > > When we work in synch with others we feel like we are each others comrades even if our work is completely different
+> > 
+> > 
+> > > [!note]+ Help people and ask for it whenever possible
+
+
+> [!note] Unblock
+> > [!note]+ Seek clarity
+> > There are 3 approaches to overcoming difficulty (in whatever form) and getting things done
+> > **Motivation:** I can make myself *want* to do the thing because of the rewards, incentives, etc.
+> > **Discipline:** I can *hate* doing the thing but I'll do it anyway because of whatever.
+> > **Unblock:** I try to understand what's blocking me, recognize the challenges and work on removing them.
+> > A potential process resulting in avoidance due to the fog of uncertainty could be this
+> > 1. Overestimate what's at stake
+> > 2. Be hypervigilant to the negative signs
+> > 3. Unable to recognize the positive signs or safety cues
+> > 4. Avoid
+> > 
+> > > [!note]+ Ask why (the intent)
+> > > A particular task or a project might seem daunting or you could feel like stuck but as long as the intent is clear and what you are doing aligns with that intent you should be good
+> > 
+> > 
+> > > [!note]+ Set NICE goals
+> > > **N**ear-term
+> > > **I**nput-based
+> > > **C**ontrollable
+> > > **E**nergizing
+> > 
+
 
 
 
