@@ -4,21 +4,25 @@
 
 # What I'm doing now
 
-> [!Tip ]- Notes I worked on recently
+> [!Tip ]+ Notes I worked on recently
 >  - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
+
+> [!note ]- Latest book reviews
+> [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]] ([Goodreads](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1))
+> ![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
 
 ### [[Reading\|Reading]]
 > [!kanban|no-t]+ 
 > - ##### Fantasy
 > 	[Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
-> 	<progress max=326 value=155> </progress>
+> 	<progress max=100 value=59> </progress>
 > - ##### Productivity
->	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
->	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
-> 	<progress max=262 value=262> </progress>
+>	[Guns, germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel?ac=1&from_search=true&qid=mYjexH7l3b&rank=1)
+>	![Image|125](https://m.media-amazon.com/images/I/61V8g4GgqdL._AC_UF1000,1000_QL80_.jpg)
+> 	<progress max=500 value=10> </progress>
 > - ##### Islam
 > 	[Hz Muhammed'in (SAV) hayatı ve İslam daveti - Medine dönemi](https://www.kitapyurdu.com/kitap/mekke-ve-medine-donemi-2-cilt-hz-muhammedin-sav-hayati-ve-islam-daveti/76607.html&manufacturer_id=6934)
 > 	![image|95](https://cdn1.dokuzsoft.com/u/kitapburada/img/b/h/z/hz-muhammedin-hayati-ve-islam-daveti-cilt-296da8ef02a4111c512c48079a308318f.jpg)
@@ -56,9 +60,9 @@
 ---
 # Notes on the website
 > [!Tip]- Books
->  - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
+>  - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > - [[Consumed Content/Books/Non-fiction/The 4-Hour Workweek\|The 4-Hour Workweek]]
-> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
+> - [[Consumed Content/Books/Non-fiction/Show Your Work\|Show Your Work]]
 > 
 { .block-language-dataview}
 
