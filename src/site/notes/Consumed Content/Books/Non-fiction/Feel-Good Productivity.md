@@ -60,7 +60,7 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > > [!note]+ Help people and ask for it whenever possible
 
 
-> [!note] Unblock
+> [!note]+ Unblock
 > > [!note]+ Seek clarity
 > > There are 3 approaches to overcoming difficulty (in whatever form) and getting things done
 > > **Motivation:** I can make myself *want* to do the thing because of the rewards, incentives, etc.
@@ -119,7 +119,7 @@ This article will contain my reflections on the book, it is not a book summary. 
 > > 
 
 
-> [!note] Sustain
+> [!note]+ Sustain
 > Burnout is relative, if you exceed *your* capacity then you are heading towards an inevitable burnout
 > > [!note]+ Conserve
 > > > [!note]+ Energy investment portfolio
