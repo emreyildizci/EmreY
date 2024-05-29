@@ -14,16 +14,14 @@ This article will contain my reflections on the book, it is not a book summary. 
 
 
 
-> [!kanban|no-t]+ 
-> # Title
-> - ##### T1
->  text
->  > [!NOTE]+ subtitle
->  > text
-> - ##### T2
->  text
->  > [!NOTE]+ subtitle
->  > text
+
+> [!NOTE]+ **Energize**
+> > [!note]+ Play
+>  > It is obvious that we humans, or even most animals enjoy play. It is almost baked in the definition of play. So it is only natural to look into play and draw strategies from it
+>  > > [!note]+ Create an adventure
+> > > - The way we enjoy games differ. Some play soccer just to beat the opponent, some just to score goals, and some, like me, find a challenge and play the game just to score the best goal or dribble the entire opponent team. So what we can do is find our play personalities and apply them to our day to day lives.
+> > > ![image|550](https://miro.medium.com/v2/resize:fit:1400/1*pYvd0OiObsXm9wXMbhWV_A.png)
+
 
 
 ---
