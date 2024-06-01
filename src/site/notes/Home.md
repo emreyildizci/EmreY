@@ -5,7 +5,9 @@
 # What I'm doing now
 
 > [!Tip ]+ Notes I worked on recently
->  - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
+>  - [[test note 2\|test note 2]]
+> - [[test note\|test note]]
+> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
 
@@ -20,7 +22,7 @@
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
 > 	<progress max=100 value=59> </progress>
 > - ##### Productivity
->	[Guns, germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel?ac=1&from_search=true&qid=mYjexH7l3b&rank=1)
+>	[Guns, Germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel?ac=1&from_search=true&qid=mYjexH7l3b&rank=1)
 >	![Image|125](https://m.media-amazon.com/images/I/61V8g4GgqdL._AC_UF1000,1000_QL80_.jpg)
 > 	<progress max=500 value=10> </progress>
 > - ##### Islam
