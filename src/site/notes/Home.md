@@ -5,9 +5,7 @@
 # What I'm doing now
 
 > [!Tip ]+ Notes I worked on recently
->  - [[test note 2\|test note 2]]
-> - [[test note\|test note]]
-> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
+>  - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
 
