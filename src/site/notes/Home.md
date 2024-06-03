@@ -5,7 +5,8 @@
 # What I'm doing now
 
 > [!Tip ]+ Notes I worked on recently
->  - [[Daily Notes/2024-06-02\|2024-06-02]]
+>  - [[Daily Notes/2024-06-03\|2024-06-03]]
+> - [[Daily Notes/2024-06-02\|2024-06-02]]
 > - [[Daily Notes/2024-06-01\|2024-06-01]]
 > - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
