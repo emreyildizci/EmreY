@@ -21,7 +21,7 @@
 > - ##### Fantasy
 > 	[Magician's Gambit](https://www.goodreads.com/book/show/44688.Magician_s_Gambit)
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
-> 	<progress max=100 value=6> </progress>
+> 	<progress max=100 value=11> </progress>
 > - ##### History
 >	[Guns, Germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel?ac=1&from_search=true&qid=mYjexH7l3b&rank=1)
 >	![Image|125](https://m.media-amazon.com/images/I/61V8g4GgqdL._AC_UF1000,1000_QL80_.jpg)
