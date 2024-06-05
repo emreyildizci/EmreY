@@ -7,9 +7,9 @@
 > - ##### Fantasy
 > 	[Magician's Gambit](https://www.goodreads.com/book/show/44688.Magician_s_Gambit)
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
-> - ##### Productivity
->	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
->	![Image|125](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
+> - ##### History
+>	[Guns, Germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel?ac=1&from_search=true&qid=mYjexH7l3b&rank=1)
+>	![Image|125](https://m.media-amazon.com/images/I/61V8g4GgqdL._AC_UF1000,1000_QL80_.jpg)
 > - ##### Islam
 > 	[Hz Muhammed'in (SAV) hayatı ve İslam daveti - Medine dönemi](https://www.kitapyurdu.com/kitap/mekke-ve-medine-donemi-2-cilt-hz-muhammedin-sav-hayati-ve-islam-daveti/76607.html&manufacturer_id=6934)
 > 	![image|95](https://cdn1.dokuzsoft.com/u/kitapburada/img/b/h/z/hz-muhammedin-hayati-ve-islam-daveti-cilt-296da8ef02a4111c512c48079a308318f.jpg)
@@ -21,6 +21,11 @@
 > 	[Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
 > 	⭐️⭐️⭐️⭐️⭐️
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
+> - ##### Productivity
+>	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
+>	[[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|My notes]]
+> 	⭐️⭐️⭐️⭐️
+>	![Image|110](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689695229i/142402923.jpg)
 > - ##### Fantasy
 > 	[Pawn of Prophecy](https://www.goodreads.com/book/show/44659.Pawn_of_Prophecy)
 > 	⭐️⭐️⭐️⭐️⭐️
