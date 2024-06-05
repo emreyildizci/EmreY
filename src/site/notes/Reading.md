@@ -5,7 +5,7 @@
 ## What I'm currently reading
 > [!kanban|no-t]+ 
 > - ##### Fantasy
-> 	[Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
+> 	[Magician's Gambit](https://www.goodreads.com/book/show/44688.Magician_s_Gambit)
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
 > - ##### Productivity
 >	[Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity?ac=1&from_search=true&qid=42b4KtHhOp&rank=1)
@@ -16,7 +16,11 @@
 
 ---
 ## What I've read recently
-> [!kanban|no-t]+ 
+> [!kanban|no-t]+
+> - ##### Fantasy
+> 	[Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
+> 	⭐️⭐️⭐️⭐️⭐️
+> 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
 > - ##### Fantasy
 > 	[Pawn of Prophecy](https://www.goodreads.com/book/show/44659.Pawn_of_Prophecy)
 > 	⭐️⭐️⭐️⭐️⭐️
