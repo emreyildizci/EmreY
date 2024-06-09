@@ -13,8 +13,5 @@
  ---
  
 > [!failure]+ Articles I saved but haven't read
->  - June 09, 2024: 
->     - [How to access the console? - Help - Obsidian Forum](https://forum.obsidian.md/t/how-to-access-the-console/16703/2)
-> 
-> 
+>  
 { .block-language-dataview}
