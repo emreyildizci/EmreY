@@ -5,10 +5,11 @@
 # What I'm doing now
 
 > [!Tip ]+ Notes I worked on recently
->  - [[Daily Notes/2024-06-03\|2024-06-03]]
+>  - [[Omnivore/2024-06-09/Mehdi Hasan on X- Many things can true at the same time- Killing Israeli civilians to free Palest...\|Mehdi Hasan on X- Many things can true at the same time- Killing Israeli civilians to free Palest...]]
+> - [[test note 2\|test note 2]]
+> - [[Daily Notes/2024-06-03\|2024-06-03]]
 > - [[Daily Notes/2024-06-02\|2024-06-02]]
 > - [[Daily Notes/2024-06-01\|2024-06-01]]
-> - [[Consumed Content/Books/Non-fiction/Feel-Good Productivity\|Feel-Good Productivity]]
 > 
 { .block-language-dataview}
 
