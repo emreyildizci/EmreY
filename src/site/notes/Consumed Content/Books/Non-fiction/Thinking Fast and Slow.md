@@ -20,7 +20,7 @@
 	- Furthermore, it primes other things associated. The word "old" makes you feel (or act) like old
 	- Doesn't have to be a word, anything can prime other things. A picture of money in the background can make you behave more individualistically
 - Cognitive ease
-	- ![Pasted image 20230708121109.png](/img/user/Files/Pasted%20image%2020230708121109.png)
+	- ![Pasted image 20230708121109.png](/img/user/images/Pasted%20image%2020230708121109.png)
 - Cognitive strain mobilizes System 2, therefore makes you think more thoroughly
 - Familiarity doesn't need to be on the conscience level
 - When in a good mood, we rely more on intuition (system 1) and therefore activate system 2 less

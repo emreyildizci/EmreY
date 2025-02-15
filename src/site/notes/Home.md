@@ -10,25 +10,14 @@
 
 
 > [!failure]+ Articles I saved but haven't read
->  - June 10, 2024: 
->     - [EXCLUSIVE: Inside Israel’s Insta-Genocide](https://zeteo.com/p/israel-soldier-gaza-genocide-instagram-facebook?isFreemail=true&post_id=145442778&publication_id=2325511&r=e5he7&token=eyJ1c2VyX2lkIjoyMzc3MDQ0NywicG9zdF9pZCI6MTQ1NDQyNzc4LCJpYXQiOjE3MTgwMjUxNDMsImV4cCI6MTcyMDYxNzE0MywiaXNzIjoicHViLTIzMjU1MTEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tC8SqVYf7rGEgK-3qpvS0v4u4e54Vhbtc0PJpiHthZw&triedRedirect=true)
-> 
-> - June 09, 2024: 
->     - [sarah on X: BREAKING:Rima Hassan becomes the first Franco-Palestinian to sit in the European Parliament.🇵🇸🔥 pic.twitter.com/TvnUiMg7Lk](https://x.com/sahouraxo/status/1799881835717218643)
->     - [Nina Turner on X: Notice how Senator Cotton is blaming all of Gaza for this, implying civilians are somehow responsible?Disgusting. Will he be censured? ](https://x.com/ninaturner/status/1799878232906367121?s=12)
-> 
-> 
+>  
 { .block-language-dataview}
 
 
 ---
 
 > [!Tip ]+ Notes I worked on recently
->  - [[Articles\|Articles]]
-> - [[Daily Notes/2024-06-03\|2024-06-03]]
-> - [[Daily Notes/2024-06-02\|2024-06-02]]
-> - [[Daily Notes/2024-06-01\|2024-06-01]]
-> 
+>  
 { .block-language-dataview}
 
 > [!note ]- Latest book reviews
@@ -40,7 +29,7 @@
 > - ##### Fantasy
 > 	[Magician's Gambit](https://www.goodreads.com/book/show/44688.Magician_s_Gambit)
 > 	![Image|125](https://m.media-amazon.com/images/I/71BI-HVZv3L._AC_UF1000,1000_QL80_.jpg)
-> 	<progress max=100 value=11> </progress>
+> 	<progress max=100 value=82> </progress>
 > - ##### History
 >	[Guns, Germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel?ac=1&from_search=true&qid=mYjexH7l3b&rank=1)
 >	![Image|125](https://m.media-amazon.com/images/I/61V8g4GgqdL._AC_UF1000,1000_QL80_.jpg)
@@ -76,6 +65,7 @@
 > - [[Personal/How I do things/How I brew espresso\|How I brew espresso]]
 > - [[Consumed Content/Books/Non-fiction/Freakonomics\|Freakonomics]]
 > - [[Consumed Content/Books/Non-fiction/The Ottoman Empire - The Classical Age 1300-1600\|The Ottoman Empire - The Classical Age 1300-1600]]
+> - [[Consumed Content/Books/Non-fiction/The Ethnic Cleansing of Palestine\|The Ethnic Cleansing of Palestine]]
 > 
 { .block-language-dataview}
 
@@ -94,6 +84,7 @@
 
 > [!Tip]- Personal
 >  - [[Personal/Vocabulary\|Vocabulary]]
+> - [[Personal/Articles\|Articles]]
 > 
 { .block-language-dataview}
 
